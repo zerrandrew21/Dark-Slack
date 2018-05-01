@@ -1791,9 +1791,9 @@ a.filetype_button_web { background: #828282; border: 1px solid #545454; color: #
 
 a.filetype_button_web .filetype_icon { background-color: #545454; }
 
-a.file_download_link { color: #949494; }
+a.file_download_link { color: #ffffff; }
 
-a.file_download_link:hover { color: #c7c7c7; }
+a.file_download_link:hover { color: #bbbbbb; }
 
 a:hover .file_inline_icon { color: #949494; }
 
@@ -1803,9 +1803,9 @@ html.no_touch a.filetype_button_web:hover { border-color: #545454; }
 
 html.no_touch a.filetype_button_web:hover .file_title { color: #e6e6e6; }
 
-.file_header_detailed { color: #ffffff; }
+.file_header_detailed { color: #949494; }
 
-.file_header_detailed .member { color: #ffffff !important; }
+.file_header_detailed .member { color: #e6e6e6 !important; }
 
 .file_inline_icon { color: #949494; }
 
