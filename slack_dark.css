@@ -1791,7 +1791,7 @@ a.filetype_button_web { background: #828282; border: 1px solid #545454; color: #
 
 a.filetype_button_web .filetype_icon { background-color: #545454; }
 
-a.file_download_link { color: #ffffff; }
+a.file_download_link { color: #949494; }
 
 a.file_download_link:hover { color: #c7c7c7; }
 
@@ -1809,11 +1809,11 @@ html.no_touch a.filetype_button_web:hover .file_title { color: #e6e6e6; }
 
 .file_inline_icon { color: #949494; }
 
-.file_header .member { color: #949494 !important; }
+.file_header .member { color: #ffffff !important; }
 
-.file_header .title { color: #e6e6e6; }
+.file_header .title { color: #ffffff; }
 
-.file_header .title a { color: #949494; }
+.file_header .title a { color: #ffffff; }
 
 .file_header .title a:hover { color: #c7c7c7; }
 
