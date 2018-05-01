@@ -1235,7 +1235,7 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #e6e6e6 !im
 
 .file_container.generic_container .file_header_meta .meta_hover, .c-file_container.generic_container .file_header_meta .meta_hover { background: #000; color: #e6e6e6; }
 
-.file_container .file_header .file_header_meta, .c-file_container .file_header .file_header_meta { color: #949494; }
+.file_container .file_header .file_header_meta, .c-file_container .file_header .file_header_meta { color: #ffffff; }
 
 .file_container .file_header + .file_body, .c-file_container .file_header + .file_body { border-top: 1px solid #000; }
 
