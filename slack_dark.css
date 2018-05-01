@@ -1809,19 +1809,19 @@ html.no_touch a.filetype_button_web:hover .file_title { color: #e6e6e6; }
 
 .file_inline_icon { color: #949494; }
 
-.file_header .member { color: #ffffff !important; }
+.file_header .member { color: #949494 !important; }
 
-.file_header .title { color: #ffffff; }
+.file_header .title { color: #e6e6e6; }
 
-.file_header .title a { color: #ffffff; }
+.file_header .title a { color: #949494; }
 
 .file_header .title a:hover { color: #c7c7c7; }
 
-.flexpane_file_title .member, .flexpane_file_title .service_link { color: #949494 !important; }
+.flexpane_file_title .member, .flexpane_file_title .service_link { color: #ffffff !important; }
 
-.flexpane_file_title .title a, .flexpane_file_title .file_action_list a { color: #949494; }
+.flexpane_file_title .title a, .flexpane_file_title .file_action_list a { color: #ffffff; }
 
-.flexpane_file_title .title a:hover, .flexpane_file_title .file_action_list a:hover { color: #c7c7c7; }
+.flexpane_file_title .title a:hover, .flexpane_file_title .file_action_list a:hover { color: #ffffff; }
 
 .file_actions_cog { color: #949494 !important; }
 
