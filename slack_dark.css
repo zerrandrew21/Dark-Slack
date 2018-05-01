@@ -1803,9 +1803,9 @@ html.no_touch a.filetype_button_web:hover { border-color: #545454; }
 
 html.no_touch a.filetype_button_web:hover .file_title { color: #e6e6e6; }
 
-.file_header_detailed { color: #949494; }
+.file_header_detailed { color: #ffffff; }
 
-.file_header_detailed .member { color: #e6e6e6 !important; }
+.file_header_detailed .member { color: #ffffff !important; }
 
 .file_inline_icon { color: #949494; }
 
@@ -1817,11 +1817,11 @@ html.no_touch a.filetype_button_web:hover .file_title { color: #e6e6e6; }
 
 .file_header .title a:hover { color: #c7c7c7; }
 
-.flexpane_file_title .member, .flexpane_file_title .service_link { color: #ffffff !important; }
+.flexpane_file_title .member, .flexpane_file_title .service_link { color: #949494 !important; }
 
-.flexpane_file_title .title a, .flexpane_file_title .file_action_list a { color: #ffffff; }
+.flexpane_file_title .title a, .flexpane_file_title .file_action_list a { color: #949494; }
 
-.flexpane_file_title .title a:hover, .flexpane_file_title .file_action_list a:hover { color: #ffffff; }
+.flexpane_file_title .title a:hover, .flexpane_file_title .file_action_list a:hover { color: #c7c7c7; }
 
 .file_actions_cog { color: #949494 !important; }
 
