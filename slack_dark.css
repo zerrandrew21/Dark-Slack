@@ -1235,7 +1235,7 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #e6e6e6 !im
 
 .file_container.generic_container .file_header_meta .meta_hover, .c-file_container.generic_container .file_header_meta .meta_hover { background: #000; color: #e6e6e6; }
 
-.file_container .file_header .file_header_meta, .c-file_container .file_header .file_header_meta { color: #ffffff; }
+.file_container .file_header .file_header_meta, .c-file_container .file_header .file_header_meta { color: #949494; }
 
 .file_container .file_header + .file_body, .c-file_container .file_header + .file_body { border-top: 1px solid #000; }
 
@@ -1249,7 +1249,7 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #e6e6e6 !im
 
 .file_container .preview_actions .btn.preview_show_less_header:focus, .file_container .preview_actions .btn.preview_show_less_header:hover, .c-file_container .preview_actions .btn.preview_show_less_header:focus, .c-file_container .preview_actions .btn.preview_show_less_header:hover { background-color: #363636; }
 
-.file_container .preview_actions .btn.preview_show_less_header:focus::after, .file_container .preview_actions .btn.preview_show_less_header:hover::after, .c-file_container .preview_actions .btn.preview_show_less_header:focus::after, .c-file_container .preview_actions .btn.preview_show_less_header:hover::after { border-color: #ffffff; }
+.file_container .preview_actions .btn.preview_show_less_header:focus::after, .file_container .preview_actions .btn.preview_show_less_header:hover::after, .c-file_container .preview_actions .btn.preview_show_less_header:focus::after, .c-file_container .preview_actions .btn.preview_show_less_header:hover::after { border-color: #363636; }
 
 .file_container.image_container .image_body, .c-file_container.image_container .image_body { background-color: #222; }
 
@@ -1791,7 +1791,7 @@ a.filetype_button_web { background: #828282; border: 1px solid #545454; color: #
 
 a.filetype_button_web .filetype_icon { background-color: #545454; }
 
-a.file_download_link { color: #949494; }
+a.file_download_link { color: #ffffff; }
 
 a.file_download_link:hover { color: #c7c7c7; }
 
